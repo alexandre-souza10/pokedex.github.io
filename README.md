@@ -19,6 +19,7 @@ https://github.com/alexandre-souza10/pokedex.github.io/assets/74196527/71886163-
 - HTML
 - CSS
 - Visual Studio Code
+- API - Pokemon-Boxes
 
 <br></br>
 
