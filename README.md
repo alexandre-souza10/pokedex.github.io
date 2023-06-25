@@ -8,8 +8,11 @@
 <br></br>
 ## Descrição do projeto:
 Aqui ficara a descrição do meu projeto.
+<br></br>
 
-Gift ou Video:
+Video:
+
+https://github.com/alexandre-souza10/pokedex.github.io/assets/74196527/71886163-b145-46c4-9be0-0a09f79b39f2
 
 <br></br>
 ## Liguagens e ferramentas utilizadas:
