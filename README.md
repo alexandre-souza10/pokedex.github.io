@@ -7,7 +7,7 @@
 
 <br></br>
 
-## Project description:
+## Project Description:
 - In this Project, a Pokedex game was developed in Pokemon Anime Cards, a Front-End project, using HTML, CSS, and the API - Pokemon-Boxes.
 It is a simple Front-End project, but very functional, fulfilling its intended purpose. It pulls Pokemon cards according to the selected API,
 and we can select the amount of numbers of pokemons cards that we deem necessary in the field insert the amount of pokemons.
@@ -16,6 +16,7 @@ and we can select the amount of numbers of pokemons cards that we deem necessary
 of cards that we choose on the field, personalized and stylized cards with different Pokemons dynamically.
 
 - Next we have a small instructional video, where we show an example of how the Pokedex page works, the Pokemon Card Game.
+  
 <br></br>
 
 Video:
@@ -24,7 +25,7 @@ https://github.com/alexandre-souza10/pokedex.github.io/assets/74196527/71886163-
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - CSS
 - Visual Studio Code
