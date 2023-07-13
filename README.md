@@ -33,7 +33,7 @@ https://github.com/alexandre-souza10/pokedex.github.io/assets/74196527/71886163-
 
 <br></br>
 
-#### Author: 
+#### Author:
 **Alexandre Souza**
 
 
